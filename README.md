@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Header Banner Visual -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,30&height=200&section=header&text=Vian%20Taufiqqurrohman&fontSize=42&fontColor=fff&animation=twinkling" width="100%" />
+  <!-- Header Banner Visual Pastel Dynamic -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,30&height=200&section=header&text=Vian%20Taufiqqurrohman&fontSize=42&fontColor=fff&animation=twinkling" width="100%" />
 
   <!-- Animated Typing Tagline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Electronics+Engineering+Student;Cybersecurity+%26+CTF+Enthusiast;Embedded+Systems+%26+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9B51E0&center=true&vcenter=true&width=500&lines=Electronics+Engineering+Student;Cybersecurity+%26+CTF+Enthusiast;Embedded+Systems+%26+Web+Developer" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -31,6 +31,7 @@
 
 | Feature | Details |
 | :--- | :--- |
+| ⚡ **Bio Quote** | Keep breath |
 | 🔭 **Focus Areas** | Embedded Systems, Network Forensics, CTF Challenges, & Web Apps |
 | 🌱 **Learning** | Microcontrollers (ESP32/Arduino), Reverse Engineering, & Cyber Security |
 | 🤝 **Collaboration** | Open-source IoT hardware/software, CTF teams, & Automation tools |
@@ -61,14 +62,14 @@
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vinovian7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinovian7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vinovian7&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinovian7&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vinovian7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vinovian7&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -77,9 +78,9 @@
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=vinovian7&color=7928CA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vinovian7&color=9B51E0&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,30&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,30&height=100&section=footer" width="100%" />
 
 </div>
